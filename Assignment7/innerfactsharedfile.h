@@ -1,0 +1,1 @@
+int innerfactorial(int);
